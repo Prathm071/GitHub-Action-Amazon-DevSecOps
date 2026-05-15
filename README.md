@@ -1,4 +1,4 @@
-# GitHub Actions Self-Hosted Runnner Amazon Website CICD DevOps — Setup Guide
+# GitHub Actions Self-Hosted Runnner Amazon Website DevOps — Setup Guide
 
 ---
 
@@ -147,6 +147,3 @@ npm -v # Should print "10.9.3"
 | Docker-username    | DOCKER_USERNAME   | your-docker-id   | From your Docker Hub profile       |
 | Docker-username    | DOCKER_PASSWORD   | token   | From your Docker Hub token       |
 | sonar-qube    | follow the same step
-
-
-Test by pratham
